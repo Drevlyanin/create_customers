@@ -1,0 +1,5 @@
+CustomerID,Name,Email,Phone
+C001,John Doe,john@email.com,1234567890
+C002,Jane Doe,jane@email.com,9876543210
+C003,,invalidemail,1122334455
+C004,Alice Brown,alice@email.com,5566778899
